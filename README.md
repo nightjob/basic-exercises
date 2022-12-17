@@ -1,12 +1,16 @@
 1. Declare a function that takes 4 arguments, and adds them all together, and returns the sum.
+`Complete`
 
 2. Declare a function that takes two arguments, and if the first argument is greater than the second one, return true, otherwise return false.
+`Complete`
 
 3. Declare a function that takes a single argument, an array of numbers, and loops over all the elements of the array, adding them together, and returning the total sum of all the elements in the array.
+`complete`
 
 4. Declare an object that two properties, "numberOne", and "numberTwo", and a function on that object called "addAllNumbers", that returns the difference of numberOne minus numberTwo.
 
 5. Declare an array that takes in a single argument, a string, and returns the string lower-cased. ie: I pass in "Crane Juice", it should return "crane juice".
+`complete`
 
 6. Declare a function that checks if an element is in an array. It takes two arguments, the array, and the element to look for. If the element is found, return true, otherwise, return false.
 
