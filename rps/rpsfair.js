@@ -15,7 +15,6 @@ if (!choices.includes(playerChoice)) {
   const computerChoice = choices[Math.floor(Math.random() * choices.length)];
 console.log(`Computer chose ${computerChoice}`);
 
-  // Determine the winner
 if (playerChoice === computerChoice) {
     console.log('It\'s a tie!');
 } else {
