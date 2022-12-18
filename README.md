@@ -13,8 +13,10 @@
 `complete`
 
 6. Declare a function that checks if an element is in an array. It takes two arguments, the array, and the element to look for. If the element is found, return true, otherwise, return false.
+`complete`
 
 7. Declare an object that has a single property, "clothes", which is an empty array, a function on that object called "putOnClothes" which take a single argument, an item of clothes you want to put on (which will be a string, like "hat"). If the object is already wearing that piece of clothing, throw an error, otherwise, add the clothes to the array and log out the new clothes array.
+`complete`
 
 8. Declare a function that takes in a single argument, a name, and then says hi to that name via the console, UNLESS that name is one of the leaver's names: tums, piccle, or interesting, in which case it instead tells that user to fuck off via the console.
 
