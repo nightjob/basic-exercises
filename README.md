@@ -23,6 +23,7 @@
 `complete`
 
 9. ROCK PAPER SCISSORS! Declare a function that plays rock paper scissors with you via the `prompt-promise` npm package. The funcion should prompt you for your decision, then cheat, and always pick the winning move, so you can never win.
+`complete`
 
 10. Do your rock paper scissors function again, but it selects randomly, not cheating.
 `complete`
