@@ -29,5 +29,7 @@
 `complete`
 
 11. Modify your rock paper scissors function to keep track of the score, and log it out after every round. So more than 1 round can be played at a time, in a loop. AFter every round it should say "Your Score: {yourScore}, ComputerScore: {computerScore}.
+`complete`
 
 12. Modify your rock paper scissors function so that after one player gets to 5 points, the game ends.
+`complete`
