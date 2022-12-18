@@ -8,6 +8,7 @@
 `complete`
 
 4. Declare an object that two properties, "numberOne", and "numberTwo", and a function on that object called "addAllNumbers", that returns the difference of numberOne minus numberTwo.
+`complete`
 
 5. Declare an array that takes in a single argument, a string, and returns the string lower-cased. ie: I pass in "Crane Juice", it should return "crane juice".
 `complete`
