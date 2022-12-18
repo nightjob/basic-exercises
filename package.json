@@ -6,7 +6,6 @@
   "description": "1. Declare a function that takes 4 arguments, and adds them all together, and returns the sum. `Complete`",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
